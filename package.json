@@ -1,0 +1,38 @@
+{
+  "author": "Glen R. Goodwin (http://www.arei.net or @areinet)",
+  "name": "exec.it",
+  "keywords": [
+    "exec",
+    "exec.it",
+    "unix",
+    "command",
+    "shell",
+    "dos",
+    "command line",
+    "unix command",
+    "dos command"
+  ],
+  "description": "Quick example of using Process.exec",
+  "version": "0.0.1",
+  "homepage": "http://github.com/arei/exec.it",
+  "bugs": {
+    "url": "http://github.com/arei/exec.it/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/arei/exec.it/blob/master/LICENSE.txt"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arei/exec.it.git"
+  },
+  "main": "exec.it.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
